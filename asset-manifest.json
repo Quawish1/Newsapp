@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Quawish1/Newsapp.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Quawish1/Newsapp.git/static/js/main.d3542a5a.js",
+    "static/js/787.6643f1c0.chunk.js": "/Quawish1/Newsapp.git/static/js/787.6643f1c0.chunk.js",
+    "static/media/loader.gif": "/Quawish1/Newsapp.git/static/media/loader.90672f1deffccbcdf4f1.gif",
+    "index.html": "/Quawish1/Newsapp.git/index.html",
+    "main.e6c13ad2.css.map": "/Quawish1/Newsapp.git/static/css/main.e6c13ad2.css.map",
+    "main.d3542a5a.js.map": "/Quawish1/Newsapp.git/static/js/main.d3542a5a.js.map",
+    "787.6643f1c0.chunk.js.map": "/Quawish1/Newsapp.git/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d3542a5a.js"
+  ]
+}
